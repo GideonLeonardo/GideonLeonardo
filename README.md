@@ -8,7 +8,7 @@ Saya bertanggung jawab pada kualitas materi pemrograman dasar web dengan dibekal
 
 Saya juga memiliki gelar Google Associate Web Developer sejak 2025.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun (https://www.instagram.com/glginting04/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun (https://www.instagram.com/glginting04/) ku ya.
 
 <p align="left">
 <a href="https://github.com/GideonLeonardo">
